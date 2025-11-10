@@ -1,0 +1,7 @@
+Flask
+requests
+numpy
+scikit-learn
+sentence-transformers   	# for embeddings (semantic search)
+spacy               		# optional, for NER/cleanup (not required)
+python-dotenv
