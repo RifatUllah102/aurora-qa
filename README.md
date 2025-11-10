@@ -5,11 +5,8 @@ This service fetches a public member messages API and exposes a single endpoint:
 
 `GET /ask?q=When is Layla planning her trip to London?`
 
-Response:
-```json
-{ "answer": "Layla — March 12, 2024: ... " }
 
-##F Follow the below steps to run the system
+## Follow the below steps to run the system
 git clone <repo>
 cd aurora-qa
 python -m venv venv
