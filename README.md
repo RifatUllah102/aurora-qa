@@ -9,7 +9,7 @@ Response:
 ```json
 { "answer": "Layla — March 12, 2024: ... " }
 
-
+##F Follow the below steps to run the system
 git clone <repo>
 cd aurora-qa
 python -m venv venv
